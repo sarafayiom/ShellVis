@@ -2,7 +2,7 @@
 
 # 🐚 ShellVis: AI-Powered Seashell Identification & Valuation System
 
-*From the beach to the lab — Snap a shell, get a full identification report in seconds.*
+*Snap a shell, get a full identification report in seconds.*
 
 [![Python 3.12](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
