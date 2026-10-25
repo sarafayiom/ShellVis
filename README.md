@@ -41,25 +41,29 @@ Designed with a custom ocean-themed interface, ShellVis bridges the gap between 
 
 ### 1. English Landing Page
 *Clean, interactive UI allowing direct image drops or camera snapshots.*
-<img src="https://raw.githubusercontent.com/sarafayiom/ShellVis/main/assets/landing_en.jpg" width="90%" alt="ShellVis English Landing Page" />
+<img src="<img width="1920" height="1080" alt="Screenshot (6067)" src="https://github.com/user-attachments/assets/e3b25548-a182-4225-82e2-564c35dcc55d" />
+" width="90%" alt="ShellVis English Landing Page" />
 
 ---
 
 ### 2. Live Analysis & Processing Pipeline
 *Background removal and real-time inference execution.*
-<img src="https://raw.githubusercontent.com/sarafayiom/ShellVis/main/assets/processing.jpg" width="90%" alt="Processing Pipeline" />
+<img src="<img width="1920" height="1080" alt="Screenshot (6068)" src="https://github.com/user-attachments/assets/b9c00c8e-8e7f-4467-b864-60280714f48f" />
+" width="90%" alt="Processing Pipeline" />
 
 ---
 
 ### 3. Detailed Taxonomy & Valuation Report (Sample 1: *Dinocardium robustum*)
 *Generated report showing confidence metrics, price estimates, mask extraction, and top 3 nearest dataset matches.*
-<img src="https://raw.githubusercontent.com/sarafayiom/ShellVis/main/assets/report_dinocardium.jpg" width="90%" alt="Identification Report 1" />
+<img src="![Uploading Screenshot (6070).png…]()
+" width="90%" alt="Identification Report 1" />
 
 ---
 
 ### 4. Detailed Taxonomy & Valuation Report (Sample 2: *Euvola diegensis*)
 *Handling complex shell patterns and comparing top classification candidates.*
-<img src="https://raw.githubusercontent.com/sarafayiom/ShellVis/main/assets/report_euvola.jpg" width="90%" alt="Identification Report 2" />
+<img src="![Uploading Screenshot (6071).png…]()
+" width="90%" alt="Identification Report 2" />
 
 </div>
 
