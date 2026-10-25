@@ -40,23 +40,21 @@ Designed with a custom ocean-themed interface, ShellVis bridges the gap between 
 <div align="center">
 
 ### 1. English Landing Page
-<img src="<img width="1920" height="1080" alt="Screenshot (6067)" src="https://github.com/user-attachments/assets/e3b25548-a182-4225-82e2-564c35dcc55d" />
+<img width="1920" height="1080" alt="Screenshot (6067)" src="https://github.com/user-attachments/assets/e3b25548-a182-4225-82e2-564c35dcc55d" />
 
 ---
 
 ### 2. Live Analysis & Processing Pipeline
-<img src="<img width="1920" height="1080" alt="Screenshot (6068)" src="https://github.com/user-attachments/assets/b9c00c8e-8e7f-4467-b864-60280714f48f" />
+<img width="1920" height="1080" alt="Screenshot (6068)" src="https://github.com/user-attachments/assets/b9c00c8e-8e7f-4467-b864-60280714f48f" />
 
 ---
 
 ### 3. Detailed Taxonomy & Valuation Report (Sample 1: *Dinocardium robustum*)
-![Uploading Screenshot (6070).png…]()
-
-
+<img width="1920" height="1080" alt="Screenshot (6070)" src="https://github.com/user-attachments/assets/d781c20e-465d-4c01-a8c7-61ebf9ecad27" />
 ---
 
 ### 4. Detailed Taxonomy & Valuation Report (Sample 2: *Euvola diegensis*)
-![Uploading Screenshot (6071).png…]()
+<img width="1920" height="1080" alt="Screenshot (6071)" src="https://github.com/user-attachments/assets/1520f3d3-a03e-4077-8595-a9185af9a63d" />
 
 </div>
 
